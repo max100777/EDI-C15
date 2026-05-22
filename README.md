@@ -29,7 +29,6 @@ Grafana + InfluxDB for real-time monitoring dashboards
 ✅ Polygon geofencing support
 ✅ OLED alert system with threat levels
 ✅ Real-time Grafana dashboard visualization
-✅ Low-cost implementation (< $80)
 
 🧠 Three-Layer Detection System
 
